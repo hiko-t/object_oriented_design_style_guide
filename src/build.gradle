@@ -1,0 +1,15 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // 必要に応じて依存関係を追加
+}
+
+application {
+    mainClass = 'HelloWorld'
+}
