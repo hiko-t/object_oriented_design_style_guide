@@ -11,5 +11,5 @@ dependencies {
 }
 
 application {
-    mainClass = 'HelloWorld'
+    mainClass = 'TodoApp'
 }
